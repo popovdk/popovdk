@@ -35,4 +35,4 @@ If you have something that needs building or fixing, get in touch.
 ### Contact
 
 - Email: **popovdk01@gmail.com**
-- Telegram: **@popovdk1**
+- Telegram: **[@popovdk1](https://t.me/popovdk1)**
