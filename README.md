@@ -36,4 +36,3 @@ If you have something that needs building or fixing, get in touch.
 
 - Email: **popovdk01@gmail.com**
 - Telegram: **@popovdk1**
-- GitHub: [@popovdk](https://github.com/popovdk)
